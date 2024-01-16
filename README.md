@@ -28,7 +28,7 @@ python model.py
 ```
 2. The model and word index are saved in the /models directory.
 
-### Step 3: Train the Sentiment Analysis Model
+### Step 4: Train the Sentiment Analysis Model
 1. Change the video_id variable in app.py to the ID of your desired YouTube video:
 ```bash
 video_id = 'desired_youtube_video_id_here'
